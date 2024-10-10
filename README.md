@@ -1,5 +1,20 @@
 <imag 
 # Bem-vindo ao Meu Repositório!
+<div>
+  <a href = "https://github.com/luizfernandomendesalberton">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+    
+</div>
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
 
