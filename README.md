@@ -1,21 +1,15 @@
 <imag 
 # Bem-vindo ao Meu Repositório!
-<div>
-  <a href = "https://github.com/luizfernandomendesalberton">
-<img height="180em" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
 
