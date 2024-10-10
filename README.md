@@ -1,3 +1,4 @@
+<imag 
 # Bem-vindo ao Meu Repositório!
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
@@ -18,9 +19,9 @@ Aqui estão alguns dos meus principais projetos:
 
 Se quiser saber mais sobre mim ou discutir possíveis colaborações, pode me contatar:
 
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
+- Email: [meu-email@example.com](mailto:luizfernandomendesalberton@gmail.com)
+- LinkedIn: [meu LinkedIn](https://www.linkedin.com/in/luiz-fernando-mendes-alberton-4b1063178/)
+- GitHub: [meu GitHub](https://github.com/luizfernandomendesalberton)
 
 ## Licença
 
