@@ -45,4 +45,4 @@ Sinta-se à vontade para explorar o código e fazer contribuições!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/luizfernandomendesalberton/snk)_
+_generated with [luizfernandomendesalberton/snk](https://github.com/luizfernandomendesalberton/snk)_
