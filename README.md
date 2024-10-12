@@ -39,3 +39,10 @@ Se quiser saber mais sobre mim ou discutir possíveis colaborações, pode me co
 Este repositório é licenciado sob a [Licença que você escolheu](link-da-licença). 
 
 Sinta-se à vontade para explorar o código e fazer contribuições!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
