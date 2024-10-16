@@ -24,8 +24,8 @@ Sou entusiasta de tecnologia e desenvolvimento de software, com interesse especi
 
 Aqui estão alguns dos meus principais projetos:
 
-- **[Nome do Projeto 1]([link-do-projeto-1](https://github.com/luizfernandomendesalberton/vesCode.git))**: em breve descrição do projeto.
-- **[Nome do Projeto 2]([link-do-projeto-2](https://github.com/Welquer/si-24-6a.git))**: em breve descrição do projeto.
+- **[Nome do Projeto 1]((https://github.com/luizfernandomendesalberton/vesCode.git))**: em breve descrição do projeto.
+- **[Nome do Projeto 2]((https://github.com/Welquer/si-24-6a.git))**: em breve descrição do projeto.
 - **[Nome do Projeto 3](link-do-projeto-3)**: em breve descrição do projeto.
 
 ## Contato
