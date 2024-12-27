@@ -1,17 +1,6 @@
 
 # Bem-vindo ao Meu Repositório!
 
-<div>
-  <a href="https://github.com/luizfernandomendesalberton/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&theme=ambient_gradient&show_icons=true" />
-</a>
-<a href="https://github.com/luizfernandomendesalberton/convoychat">
-  <img height=250px left= 450px width = 450px top = 200px  src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfernandomendesalberton&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
-height
-left
-width
 
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
@@ -19,6 +8,11 @@ Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde co
 ## Sobre Mim
 
 Sou entusiasta de tecnologia e desenvolvimento de software, com interesse especial em criar soluções que utilizam inteligência artificial, automação e desenvolvimento web. No meu tempo livre, gosto de aprender novas linguagens e frameworks, além de contribuir com projetos open source.
+
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 ## Projetos
 
