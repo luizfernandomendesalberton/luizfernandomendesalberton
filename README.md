@@ -1,7 +1,7 @@
 
 # Bem-vindo ao Meu Repositório!
 
-
+![luizfernandomendesalberton GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham)
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
 
@@ -9,6 +9,9 @@ Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde co
 
 Sou entusiasta de tecnologia e desenvolvimento de software, com interesse especial em criar soluções que utilizam inteligência artificial, automação e desenvolvimento web. No meu tempo livre, gosto de aprender novas linguagens e frameworks, além de contribuir com projetos open source.
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/luizfernandomendesalberton)
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -41,4 +44,4 @@ Sinta-se à vontade para explorar o código e fazer contribuições!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-_generated with [luizfernandomendesalberton/snk](https://github.com/luizfernandomendesalberton/snk)_
+
