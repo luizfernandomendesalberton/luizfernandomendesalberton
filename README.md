@@ -21,9 +21,11 @@ Sou entusiasta de tecnologia e desenvolvimento de software, com interesse especi
 
 Aqui estão alguns dos meus principais projetos:
 
-- **[Nome do Projeto 1](https://github.com/luizfernandomendesalberton/vesCode.git)**: em breve descrição do projeto.
-- **[Nome do Projeto 2](https://github.com/Welquer/si-24-6a.git)**: em breve descrição do projeto.
-- **[Nome do Projeto 3](link-do-projeto-3)**: em breve descrição do projeto.
+- **[vsCode](https://github.com/luizfernandomendesalberton/vesCode.git)**: em breve descrição do projeto.
+- **[trabalho de escola](https://github.com/luizfernandomendesalberton/programas_implementacao)** onde tem a juncao de HTML, CSS, JS. para criacao de um APP de carros.
+- **[facudade](https://github.com/Welquer/si-24-6a.git)**: em breve descrição do projeto.
+- **[aula de HTML](https://github.com/luizfernandomendesalberton/aula-internet)**: aprofundado em codigos e funções do HTML.
+- **[vescode codigos teste](https://github.com/luizfernandomendesalberton/vescode-2a-avaliacao-luiz-fernando)**: em breve descrição do projeto.
 
 ## Contato
 
