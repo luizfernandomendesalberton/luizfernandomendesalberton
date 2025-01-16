@@ -59,8 +59,8 @@ Se quiser saber mais sobre mim ou discutir possíveis colaborações, pode me co
 
 Sinta-se à vontade para explorar o código e fazer contribuições!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton?tab=repositories/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton?tab=repositories/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
