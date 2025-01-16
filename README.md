@@ -31,7 +31,7 @@ Aqui estão alguns dos meus principais projetos:
 
 Se quiser saber mais sobre mim ou discutir possíveis colaborações, pode me contatar:
 
-- Email: [meu-email@example.com](mailto:luizfernandomendesalberton@gmail.com)
+- Email: [luizfernandomendesalberton@gmail.com](mailto:luizfernandomendesalberton@gmail.com)
 - LinkedIn: [meu LinkedIn](https://www.linkedin.com/in/luiz-fernando-mendes-alberton-4b1063178/)
 - GitHub: [meu GitHub](https://github.com/luizfernandomendesalberton)
 
