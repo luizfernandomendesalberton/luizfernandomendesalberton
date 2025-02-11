@@ -62,6 +62,7 @@ Sinta-se à vontade para explorar o código e fazer contribuições!
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton?tab=repositories/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfernandomendesalberton?tab=repositories/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizfernandomendesalberton/luizfernandomendesalberton/output/github-contribution-grid-snake-dark.svg">
+  ![snake gif](https://github.com/luizfernandomendesalberton/main.yml/blob/output/github-contribution-grid-snake.svg)
 </picture>
 
 
