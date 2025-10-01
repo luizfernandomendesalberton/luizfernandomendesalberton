@@ -1,7 +1,8 @@
 
 # Bem-vindo ao Meu Repositório!
 
-![luizfernandomendesalberton GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham&count_private=true)
+
 
 Olá, meu nome é **Luiz Fernando** e este é o meu repositório pessoal onde compartilho projetos e experimentos em desenvolvimento.
 
