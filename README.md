@@ -1,7 +1,8 @@
 
 # Bem-vindo ao Meu Repositório!
 
-![Luiz GitHub stats](https://github-readme-stats-seuusuario.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizfernandomendesalberton&theme=gotham&count_private=true)
 
 
 
