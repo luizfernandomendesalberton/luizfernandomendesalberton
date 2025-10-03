@@ -1,7 +1,8 @@
 
 # Bem-vindo ao Meu Repositório!
 
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham&count_private=true)
+
 
 
 
