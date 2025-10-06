@@ -4,6 +4,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizfernandomendesalberton&theme=gotham&count_private=true)
 
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandomendesalberton&show_icons=true&theme=gotham&count_private=true)
 
 
 
